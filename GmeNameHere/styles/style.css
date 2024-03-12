@@ -1,0 +1,11 @@
+#title-screen {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#title-screen .menu-button {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
